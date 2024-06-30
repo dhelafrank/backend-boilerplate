@@ -1,0 +1,5 @@
+{
+  "watch": ["core"],
+  "ext": "ts",
+  "exec": "npm run build && node ./dist/app.js"
+}

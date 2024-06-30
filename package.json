@@ -1,0 +1,51 @@
+{
+  "name": "backend boilerplate",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "./core/app.ts",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "dev": "rm -rf logs && nodemon",
+    "build": "npm run clean && tsc",
+    "start": "npm run build && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backend boilerplate"
+  },
+  "author": "dhelafrank",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/backend boilerplate"
+  },
+  "homepage": "git+https://github.com/backend boilerplate",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/cors": "^2.8.17",
+    "@types/jsonwebtoken": "^9.0.5",
+    "axios": "^1.6.7",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.9.0",
+    "helmet": "^7.1.0",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/firebase": "^3.2.1",
+    "@types/node": "^20.10.4",
+    "@types/nodemailer": "^6.4.14",
+    "@types/uuid": "^9.0.7",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+trash
+todo.md
+info.md
+.env
+/dist
+./logs
+*.log
