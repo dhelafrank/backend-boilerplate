@@ -1,15 +1,36 @@
-# Student-Project-Repository-Management-API
+# Backend Boilerplate
 
-<div align="center">
+## Description
 
-<img src="https://i.ibb.co/9p9zqZh/nacos-seal.png"/>
+This project is a simple boilerplate for getting started with Typescript projects
 
-</div>
+## Getting Started
 
-<p align="center">
-            This NACOS AKSU is operated under license from NACOS NIGERIA.
-</p>
+### Prerequisites
 
-> Student Project Repository Management Project API Codebase
+* Node.js (version 14 or higher)
+* A code editor or IDE of your choice
 
-<br>
+### Installation
+
+1. Clone the repository: `git clone https://github.com/dhelafrank/Backend-Boilerplate.git`
+2. Install dependencies: `npm install`
+
+### Usage
+
+1. Open the project in your code editor or IDE.
+2. Make changes to the code as needed.
+3. Run the project in development `npm run dev`.
+4. Run the project in production: `npm run start`
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+My Project is licensed under the MIT License.
+
+## Authors
+
+* [Ubongabasi Jerome](ubongabasijerome8@gmail.com)
