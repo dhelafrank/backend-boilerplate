@@ -1,5 +1,5 @@
 {
-  "name": "backend boilerplate",
+  "name": "Ubongabasi Jerome API",
   "version": "1.0.0",
   "description": "<div align=\"center\">",
   "main": "./core/app.ts",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/backend boilerplate"
+    "url": "git+https://github.com/dhelafrank/Ubongabasi-Jerome-API"
   },
   "author": "dhelafrank",
   "license": "ISC",
   "bugs": {
-    "url": "git+https://github.com/backend boilerplate"
+    "url": "git+https://github.com/dhelafrank/Ubongabasi-Jerome-API"
   },
-  "homepage": "git+https://github.com/backend boilerplate",
+  "homepage": "git+https://github.com/dhelafrank/Ubongabasi-Jerome-API",
   "dependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.17",
